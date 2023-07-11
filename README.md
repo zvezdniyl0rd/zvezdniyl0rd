@@ -12,7 +12,7 @@
 Jira, Qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI, Mockoon, Charles Proxy, Git, Chrome DevTools
 
-### Используемые языки прораммирования
+### Языки прораммирования
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdniyl0rd)](https://github.com/anuraghazra/github-readme-stats)
 
 
