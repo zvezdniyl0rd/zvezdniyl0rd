@@ -5,12 +5,17 @@
 
 # Портфолио / QA Engineer
 ## Немного о себе
-Привет! Меня зовут Алексей, я начинающий тестировщик.
+Привет! Меня зовут Алексей, я **начинающий** тестировщик.
 В этом репозитории собраны некоторые из моих проектов, выполненных во время обучения.
 
 ## Мои навыки и используемые технологии
-Jira, Qase.io, SQL, Postman, Fiddler, Swagger, Trello,
-SoapUI, Mockoon, Charles Proxy, Git, Chrome DevTools
+- Инструменты тестирования и документации API: `Postman`, `Chrome DevTools`, `Mockoon`, `SoapUI`, `Apache JMeter`, `Swagger`
+- Инструменты анализа данных: `SQL`, `Excel`
+- Баг-трекинговые системы: `Jira`, `Trello`
+- Системы управления базами данных: `MS SQL Server`, `PostgreSQL`
+- Системы управления тест-кейсами и чек-листами: `Qase.io`, `Sitechco`
+- Системы управления версиями: `Git`
+
 
 ### Языки прораммирования
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdniyl0rd)](https://github.com/anuraghazra/github-readme-stats)
