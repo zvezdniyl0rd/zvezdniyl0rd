@@ -66,3 +66,6 @@
 
 ### Немного юмора)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+## Контактная информация
+Email: zhandarmissimo@gmail.com
