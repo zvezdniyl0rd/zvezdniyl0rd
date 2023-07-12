@@ -68,8 +68,8 @@
 
 
 ### Языки программирования
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdniyl0rd)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdniyl0rd&theme=tokyonight)
+
 ### Немного юмора)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
