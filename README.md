@@ -67,10 +67,7 @@
 2. Существует как минимум 2 теста, которые можно выполнить только через API
 
 
-### Языки программирования
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdniyl0rd&theme=tokyonight)
-
-### Немного юмора)
+### Минутка юмора
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## Контактная информация
