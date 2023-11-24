@@ -12,7 +12,7 @@
 - Инструменты тестирования и документации API: `Postman`, `Chrome DevTools`, `Mockoon`, `Swagger`, `Charles Proxy`
 - Инструменты анализа данных: `SQL`, `Excel`
 - Баг-трекинговые системы: `Jira`, `Trello`
-- Системы управления базами данных: `MS SQL Server`, `PostgreSQL`,`DBeaver`
+- Системы управления базами данных: `MS SQL Server`, `PostgreSQL`, `DBeaver`
 - Системы управления тест-кейсами и чек-листами: `Qase.io`, `Sitechco`, `Allure`
 - Системы управления версиями: `Git`
 - Языки программирования: `C++`, `C#`, `Python`
