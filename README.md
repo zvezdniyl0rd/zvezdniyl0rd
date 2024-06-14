@@ -9,7 +9,7 @@
 В этом репозитории собраны некоторые из моих проектов, выполненных во время обучения.
 
 ## Мои навыки и используемые технологии
-- Инструменты тестирования и документации API: `Postman`, `Chrome DevTools`, `Mockoon`, `Swagger`, `Charles Proxy`
+- Инструменты тестирования и документации API: `Postman`, `Chrome DevTools`, `Swagger`, `Charles Proxy`
 - Инструменты анализа данных: `SQL`, `Excel`
 - Баг-трекинговые системы: `Jira`, `Trello`
 - Системы управления базами данных: `MS SQL Server`, `PostgreSQL`, `DBeaver`
