@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Алексей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4500&pause=1000&color=18D216&background=CEBCC700&center=true&vCenter=true&width=777&height=33&lines=Перспективный+тестировщик+с+потребностью+в+развитии" alt="Typing SVG" /></a>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4500&pause=1000&color=18D216&background=CEBCC700&center=true&vCenter=true&width=777&height=33&lines=%D0%9F%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA+%D1%81+%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E+%D0%B2+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B8" alt="Typing SVG" /></a>
 
 
 # Портфолио / QA Engineer
